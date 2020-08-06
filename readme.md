@@ -1,1 +1,1 @@
-Hello, World! I'm new to Git.. Save the file.
+Hello, World! I'm new to Git..
